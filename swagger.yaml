@@ -12,12 +12,18 @@ info:
     For this sample, you can use the api key `special-key` to test the authorization filters.
   
     # Introduction
-    This API is documented in OpenAPI format and is based on team.
-    It was extended to illustrate features of tool and . In addition to standard OpenAPI syntax we use a few .
+    There are many variations of passages of Lorem Ipsum available, but the majority have 
+	suffered alteration in some form, by injected humour, or randomised words which don't look 
+	even slightly believable. 
+	If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything 
+	embarrassing hidden in the middle of text.
     
     # OpenAPI Specification
-    There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, \
-	you need to be sure there isn't anything embarrassing hidden in the middle of text .
+    There are many variations of passages of Lorem Ipsum available, but the majority have 
+	suffered alteration in some form, by injected humour, or randomised words which don't look 
+	even slightly believable. 
+	If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything 
+	embarrassing hidden in the middle of text.
       
     # Authentication
 
