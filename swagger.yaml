@@ -5,9 +5,9 @@ servers:
   - url: //clickposapi.swagger.io/sandbox
     description: Sandbox server
 info: 
-  description: >-
+  description: |
     ClickPOS API is used to make RESTfull api calls and also you can make API
-    calls of other company by supplying Company GUID
+    calls of other company by supplying Company GUID.
   
     # Introduction
     Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, 
@@ -28,7 +28,7 @@ info:
     # Authentication
 
     Petstore offers one forms of authentication:
-    - API Key
+      - API Key
     API Key - anything embarrassing hidden in the 
     middle of text.
 
