@@ -1,4 +1,4 @@
-openapi: 3.0.0
+openapi: 3.0.1
 servers:
   - url: //clickposapi.swagger.io/v2
     description: Default server
