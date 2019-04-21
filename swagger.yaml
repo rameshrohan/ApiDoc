@@ -19,8 +19,7 @@ info:
     
     # OpenAPI Specification
     This API is documented in OpenAPI format and is based on team.
-    It was extended to illustrate features of tool and . In addition to standard OpenAPI syntax we use a few.
-      
+    
     # Authentication
 
     Petstore offers one forms of authentication:
