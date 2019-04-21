@@ -12,21 +12,14 @@ info:
     For this sample, you can use the api key `special-key` to test the authorization filters.
   
     # Introduction
-    There are many variations of passages of Lorem Ipsum available, but the majority have 
+      There are many variations of passages of Lorem Ipsum available, but the majority have 
 	  suffered alteration in some form, by injected humour, or randomised words which don't look 
 	  even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything 
 	  embarrassing hidden in the middle of text .
     
-<<<<<<< HEAD
     # OpenAPI Specification
-    There are many variations of passages of Lorem Ipsum available, but the majority have 
-	  suffered alteration in some form, by injected humour, or randomised words which don't look 
-	  even slightly believable. if you are going to use a passage of Lorem Ipsum .
-=======
-   # OpenAPI Specification
-    This API is documented in OpenAPI format and is based on team.
-    It was extended to illustrate features of tool and . In addition to standard OpenAPI syntax we use a few .
->>>>>>> parent of 1b6ebf9... Update swagger.yaml
+     This API is documented in OpenAPI format and is based on team.
+     It was extended to illustrate features of tool and . In addition to standard OpenAPI syntax we use a few .
       
     # Authentication
 
