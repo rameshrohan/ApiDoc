@@ -44,7 +44,7 @@ info:
     email: apiteam@swagger.io
     url: https://github.com/Rebilly/ReDoc
   x-logo:
-    url: 'https://rebilly.github.io/ReDoc/petstore-logo.png'
+    url: 'https://raw.githubusercontent.com/rameshrohan/ApiDoc/1530ed7509bc2b13533bdc62e396165b0f831cd6/img-rest-api-90.png'
     altText: Petstore logo
 paths:
   /ctimeapi/Admin/Login:
