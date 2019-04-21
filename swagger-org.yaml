@@ -1,9 +1,4 @@
-openapi: 3.0.0
-servers:
-  - url: //clickposapi.swagger.io/v2
-    description: Default server
-  - url: //clickposapi.swagger.io/sandbox
-    description: Sandbox server
+swagger: '2.0'
 info:
   version: v1
   title: ClickPOS Api
