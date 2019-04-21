@@ -1,5 +1,5 @@
 openapi: 3.0.0
-servers:
+servers: 
   - url: //clickposapi.swagger.io/v2
     description: Default server
   - url: //clickposapi.swagger.io/sandbox
