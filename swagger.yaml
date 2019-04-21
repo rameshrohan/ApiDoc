@@ -6,25 +6,25 @@ servers:
     description: Sandbox server
 info: 
   description: |
-    ClickPOS API is used to make RESTfull api calls and also you can make API
-    calls of other company by supplying Company GUID.
+    This is a sample server Petstore server.
+    You can find out more about Swagger at
+    [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).
+    For this sample, you can use the api key `special-key` to test the authorization filters.
   
     # Introduction
-    Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, 
-    making it over 2000 years old. Richard McClintock, 
-    a Latin professor at Hampden-Sydney 
-    College in Virginia, looked up one of the more 
-    obscure Latin words, consectetur, from a Lorem Ipsum.
-  
-    # OpenAPI Specification
-    There are many variations of passages of Lorem Ipsum 
-    available, but the majority have suffered alteration 
-    in some form, by injected humour, or randomised words 
-    which don't look even slightly believable. If you are 
-    ing to use a passage of Lorem Ipsum, you need to be 
-    sure there isn't anything embarrassing hidden in the 
-    middle of text.
-  
+    This API is documented in **OpenAPI format** and is based on
+    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
+    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
+    tool and [ReDoc](https://github.com/Rebilly/ReDoc) documentation. In addition to standard
+    OpenAPI syntax we use a few [vendor extensions](https://github.com/Rebilly/ReDoc/blob/master/docs/redoc-vendor-extensions.md).
+    
+   # OpenAPI Specification
+    This API is documented in **OpenAPI format** and is based on
+    [Petstore sample](http://petstore.swagger.io/) provided by [swagger.io](http://swagger.io) team.
+    It was **extended** to illustrate features of [generator-openapi-repo](https://github.com/Rebilly/generator-openapi-repo)
+    tool and [ReDoc](https://github.com/Rebilly/ReDoc) documentation. In addition to standard
+    OpenAPI syntax we use a few [vendor extensions](https://github.com/Rebilly/ReDoc/blob/master/docs/redoc-vendor-extensions.md).
+      
     # Authentication
 
     Petstore offers one forms of authentication:
